@@ -150,7 +150,6 @@ section .left-navbar {
   padding-left: 180px;
   color: gray;
 }
-
 .left-navbar p {
   color: gray;
   font-size: 12px;
@@ -170,7 +169,6 @@ section .left-navbar {
   display: flex;
   flex-direction: column;
 }
-
 .right-navigation .container-sponsored {
   display: flex;
   flex-direction: column;
